@@ -1,2 +1,2 @@
-# Advant-2021
-Code for Advant of Code 2021
+# Advent-2021
+Code for Advent of Code 2021
